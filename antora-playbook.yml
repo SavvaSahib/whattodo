@@ -1,5 +1,5 @@
 site:
-  title: Общие цели: Счастье
+  title: Общие цели | Счастье
   start_page: ROOT::index.adoc
   url: https://savvasahib.github.io/whattodo
 output:
