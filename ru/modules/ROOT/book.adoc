@@ -1,6 +1,6 @@
 = Что мне делать? :-)
 :version-label: RU
-Сергей Поляков, {docdate}, {version-label}
+Савва Сахиб, {docdate}, {version-label}
 :front-cover-image: image:forward.jpg[Front Cover,1050,1050]
 :doctype: book
 :publisher: Общие Цели

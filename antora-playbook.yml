@@ -1,7 +1,7 @@
 site:
-  title: Общие цели
+  title: Общие цели: Счастье
   start_page: ROOT::index.adoc
-  url: https://text.sharedgoals.ru
+  url: https://savvasahib.github.io/whattodo
 output:
   dir: ./public
 content:
@@ -40,9 +40,9 @@ asciidoc:
     page-urlepub: 'book.epub'
     page-urladoc: 'book.adoc'
     page-navdiscuss: 'Обсуждать'
-    page-urldiscuss:  https://t.me/bongiozzo_public
+    page-urldiscuss:  https://t.me/savvasahib
     page-navwrite: 'Писать'
-    page-urlwrite:  https://github.com/bongiozzo/whattodo/
+    page-urlwrite:  https://github.com/savvasahib/whattodo/
 antora:
   extensions:
   - require: '@antora/lunr-extension'
